@@ -1,0 +1,16 @@
+# зависимости
+/node_modules
+
+# сборка Next.js
+/.next
+/out
+
+# окружение
+.env*
+!.env.example
+
+# прочее
+*.log
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
